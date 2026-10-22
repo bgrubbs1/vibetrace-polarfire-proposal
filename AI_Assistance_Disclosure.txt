@@ -1,0 +1,3 @@
+VibeTrace - AI Assistance Disclosure
+
+OpenAI's dot assistant assisted with developing and editing this proposal, including the proposed architecture, numerical targets, verification plan and block diagram. This proposal claims no measured performance results. This disclosure describes assistance with proposal development and does not represent completed implementation or engineering validation.
